@@ -15,6 +15,6 @@ Ricebowl is a tool created in order to streamline the process of installing othe
 - Then, at the root of your repo, create a `bowl.json` file.
 - Inside, put the properties of it, dependencies, and an index of file locations.
 - For an example, see [this repo](https://github.com/stikypiston/darkroast-bspwm)
-- Then, once ready, create a Pull Request on *this* repo, and add your repo's details into the repo.json file.
+- Then, once ready, create a Pull Request on [*this*](https://github.com/stikypiston/ricebowl-repo) repo, and add your repo's details into the repo.json file.
 - See the other rices for how to do so.
 - If the PR is accepted, your rice will be successfully published!
